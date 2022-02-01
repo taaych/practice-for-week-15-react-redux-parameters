@@ -3,7 +3,7 @@
 In this short practice, you will apply your existing knowledge to complete the
 `SingleArticle` component.
 
-## Set up
+## Setup
 
 Clone the starter repo accessible from the `Download Project` button at the
 bottom of this page and `cd` into the root directory.
