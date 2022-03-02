@@ -5,11 +5,8 @@ In this short practice, you will apply your existing knowledge to complete the
 
 ## Setup
 
-Clone the starter repo accessible from the `Download Project` button at the
-bottom of this page and `cd` into the root directory.
-
-1. Run `npm install` to load all the dependencies.
-2. Run `npm start` to start the server and run your app `localhost:3000`.
+Click the `Download Project` button at the bottom of this page to go to the
+starter repo, then load the repo into [CodeSandbox].
 
 ## Using parameters and passing state to component
 
@@ -34,3 +31,5 @@ click on their respective titles in the "Article List".
 to
 
 1. Display information in JSX based on a URL parameter.
+
+[CodeSandbox]: https://codesandbox.io
